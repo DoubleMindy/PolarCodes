@@ -1,0 +1,11 @@
+1) Parameters L and D of LIST and STACK decoders works only with powers of 2. reason is integer log of them is calculated.
+2) SCS decoder works only with P1 domain
+3) D > L, log D < n
+4) OPerations count for LLR and MINSUM
+5) define for operations counting`
+6) optimized SC and SCS decoder only with minsum LLR, Creeaper as well
+7) optimized SC decoder without CRC
+8) all versions of list and stack does not work without CRC
+9) Cut off domain type
+10) In stack optimized algorithm, metirc of the better path tends to increase
+11) IN creeper algorithm, metric tends to decrease

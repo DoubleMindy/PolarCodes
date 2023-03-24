@@ -1,0 +1,12 @@
+BasedOnStyle: WebKit
+BraceWrapping:
+  BeforeElse: true
+BreakBeforeBraces: Custom
+BreakConstructorInitializers: BeforeColon
+DerivePointerAlignment: false
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Middle
+SortIncludes: false
+SortUsingDeclarations: false
+TabWidth: 4
+UseTab: ForContinuationAndIndentation

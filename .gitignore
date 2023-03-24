@@ -1,0 +1,49 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64
+/.vs/PolarSimulate/v15
+/results_plotting/.ipynb_checkpoints
+/results
+/src/trash.cpp
+/src/ScFanoTrashDecoder.cpp
+/BuildSequence/x64/Release
+/polar_sequences/Stat/leader.dump
+/BuildSequence/leader.dump
+/BuildSequence/x64/Debug
+
+.clangd
+/build*
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app

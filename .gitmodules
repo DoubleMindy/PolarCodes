@@ -1,0 +1,3 @@
+[submodule "lib/mexbind0x"]
+	path = lib/mexbind0x
+	url = https://github.com/krsch/mexbind0x.git
